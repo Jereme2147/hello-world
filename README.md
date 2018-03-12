@@ -1,2 +1,2 @@
 # hello-world
-a short description
+I'm Jereme.  I'm a career firefighter who is trying to learn new things. 
